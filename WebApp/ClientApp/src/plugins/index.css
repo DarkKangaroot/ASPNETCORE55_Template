@@ -1,0 +1,12 @@
+
+/* .v-ripple__container {
+    display:none !important;
+} */
+
+button {
+  border-radius: 0px !important;
+}
+
+.v-text-field {
+  border-radius: 0px !important;
+}

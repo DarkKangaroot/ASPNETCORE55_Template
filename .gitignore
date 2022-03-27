@@ -1,0 +1,17 @@
+.DS_Store
+WebApp/ClientApp/node_modules
+WebApp/ClientApp/dist
+
+DomainEntities/bin
+DomainEntities/obj
+
+WebApp/bin
+WebApp/obj
+
+Infrastructure/bin
+Infrastructure/obj
+
+Service/bin
+Service/obj
+
+.vs
